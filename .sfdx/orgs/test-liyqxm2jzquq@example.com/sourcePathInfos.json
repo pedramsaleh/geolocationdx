@@ -2,382 +2,524 @@
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1520287985283,
             "changeTime": 1520287985283,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
             "isWorkspace": false,
-            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4"
+            "isArtifactRoot": true
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1520287985279,
             "changeTime": 1520287985279,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
             "isWorkspace": false,
-            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f"
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 256,
-            "modifiedTime": 1520288001515,
-            "changeTime": 1520288001515,
-            "contentHash": "f440de1ff392aa8441f99235374c53c458c599eb",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 320,
+            "modifiedTime": 1520289192825,
+            "changeTime": 1520289192825,
+            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86"
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1520288291018,
             "changeTime": 1520288291018,
+            "contentHash": "8254dac2f5256c6b3492239c93b3f2d7d93ec5a8",
             "isWorkspace": false,
-            "contentHash": "8254dac2f5256c6b3492239c93b3f2d7d93ec5a8"
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation",
         {
-            "state": "u",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 384,
             "modifiedTime": 1520287979497,
             "changeTime": 1520287979497,
-            "isWorkspace": true,
-            "contentHash": "6ef69b0c2f123f84128940efc746147ca59d3764"
+            "contentHash": "6ef69b0c2f123f84128940efc746147ca59d3764",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1520281176005,
             "changeTime": 1520281176005,
             "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1520281176012,
             "changeTime": 1520281176012,
             "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1520281176018,
             "changeTime": 1520281176018,
             "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1520281176022,
             "changeTime": 1520281176022,
             "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1520281176026,
             "changeTime": 1520281176026,
             "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1520281176028,
             "changeTime": 1520281176028,
             "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/objects/Account/fields",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1520281176005,
             "changeTime": 1520281176005,
             "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/objects/Account",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1520281176004,
             "changeTime": 1520281176004,
             "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/objects",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/objects",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1520281176004,
             "changeTime": 1520281176004,
             "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/layouts",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1520281176026,
             "changeTime": 1520281176026,
             "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/permissionsets",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1520281176027,
             "changeTime": 1520281176027,
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/classes",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/classes",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1520287946564,
             "changeTime": 1520287946564,
             "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/classes/AccountController.cls",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/classes/AccountController.cls",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 292,
             "modifiedTime": 1520288164000,
             "changeTime": 1520288164000,
             "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
-            "isMetadataFile": false,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
         {
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1520287946564,
             "changeTime": 1520287946564,
             "contentHash": "009dea813ac2a75cc97e39cbe424285f551f3488",
-            "isMetadataFile": true,
-            "state": "u"
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 352,
             "modifiedTime": 1520288257367,
             "changeTime": 1520288257367,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1520288257367,
             "changeTime": 1520288257367,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 155,
             "modifiedTime": 1520288297594,
             "changeTime": 1520288297594,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45"
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1520288257363,
             "changeTime": 1520288257363,
-            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9"
+            "contentHash": "dfe99a871ed485dfde85a92f9ef175c42e82cbc9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 114,
             "modifiedTime": 1520288463912,
             "changeTime": 1520288463912,
-            "contentHash": "afdd78ed2864ac252024d82a836b21bdc7ccb67a"
+            "contentHash": "afdd78ed2864ac252024d82a836b21bdc7ccb67a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1520288257367,
             "changeTime": 1520288257367,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1520288257366,
             "changeTime": 1520288257366,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1520288257364,
             "changeTime": 1520288257364,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1520288257364,
             "changeTime": 1520288257364,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1520288257366,
             "changeTime": 1520288257366,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1520289192822,
+            "changeTime": 1520289192822,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4680,
+            "modifiedTime": 1520289192826,
+            "changeTime": 1520289192826,
+            "contentHash": "4e8ccfd286b282fe150de41bc35253eae5e0fca5"
+        }
+    ],
+    [
+        "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4684,
+            "modifiedTime": 1520289192833,
+            "changeTime": 1520289192833,
+            "contentHash": "52f1d0724ab23352d73de7d6da76e63ea96d449b"
+        }
+    ],
+    [
+        "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5020,
+            "modifiedTime": 1520289192838,
+            "changeTime": 1520289192838,
+            "contentHash": "f0fb8b8ee91be2f95547e0086971edbd837ac714"
+        }
+    ],
+    [
+        "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17723,
+            "modifiedTime": 1520289192851,
+            "changeTime": 1520289192851,
+            "contentHash": "9e2696b634739877d44fde67c10aa42124d7746b"
+        }
+    ],
+    [
+        "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1520289192822,
+            "changeTime": 1520289192822,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/pedram/dev/sfdx/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1520289192850,
+            "changeTime": 1520289192850,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
